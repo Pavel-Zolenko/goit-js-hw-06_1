@@ -12,5 +12,6 @@ function onTargetBtnChangeColor() {
   
 }
 
+
 btnEl.addEventListener("click", onTargetBtnChangeColor);
 
